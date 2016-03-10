@@ -167,6 +167,10 @@ a:hover {
 	color: #fff;
 }
 
+.color-red {
+	color: #9C0F17;
+}
+
 .theme-bg {
 	background-color: #ff7701 !important;
 }
